@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container-fluid {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.container-fluid .navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    margin-top: 20px;
+}
